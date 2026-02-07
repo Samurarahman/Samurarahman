@@ -92,4 +92,45 @@
   </a>
 </p>
 
+---
+
+## 🏆 Certificates & Achievements
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/PV%20certificate.jpeg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/PV%20certificate.jpeg" width="220"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/2nd%20position%20.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/2nd%20position%20.jpg" width="220"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/Convocation%20.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/Convocation%20.jpg" width="220"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/EWU%20MUN.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/EWU%20MUN.jpg" width="220"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/EWU%20ROBOFEST.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/EWU%20ROBOFEST.jpg" width="220"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/IOT%20Seminar%20.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/IOT%20Seminar%20.jpg" width="220"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/IT%20Olympiad.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/IT%20Olympiad.jpg" width="220"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/science%20carnival%20.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/science%20carnival%20.jpg" width="220"/>
+  </a>
+</p>
 
