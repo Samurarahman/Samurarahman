@@ -19,12 +19,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Samurarahman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/output/pacman.svg" alt="Contribution Snake Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samurarahman&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samurarahman&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Samurarahman/Samurarahman/output/pacman-dark.svg">
+  <img alt="Contribution graph"
+       src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/output/pacman-light.svg">
+</picture>
 
 
