@@ -80,6 +80,21 @@
 </p>
 
 ---
+
+## 🚀 Projects Showcase
+
+<p align="center">
+  <a href="https://samaura-portfolio-2.netlify.app/">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/Portfolio.PNG" width="420"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Live-Netlify-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge" />
+</p>
+
+---
 ## 📚 Publications & Research
 
 <p align="center">
