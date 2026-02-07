@@ -2,7 +2,14 @@
   <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/cover-photo.jpg" alt="Cover Photo" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="center">👋 Hi, I'm Samura Rahman</h2>
+<p align="center">
+  <em>Computer Science Graduate | Data Scientist | AI & ML Enthusiast</em>
+</p>
+<p align="center">
+  📞 <strong>Phone:</strong> +8801817682373  &nbsp; | &nbsp;
+  📍 <strong>Location:</strong>  Dhaka, Bangladesh  &nbsp; | &nbsp;
+</p>
 
 ## 🌐 Socials:
 <p align="center">
@@ -18,6 +25,9 @@
   <a href="mailto:samura.rahman14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://samaura-portfolio-2.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -31,8 +41,17 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samurarahman&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Samurarahman&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=normal)
 
+---
+
+## 🛠️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&layout=normal" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&layout=normal" />
+</p>
 
 ---
 
@@ -50,13 +69,6 @@
 
 ---
 
-## 👀 Profile Visitors
-<p align="center">
-  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Samurarahman.Samurarahman)
-</p>
-
----
-
 ## 📈 Contribution Graph
 <p align="center">
   <picture>
@@ -66,3 +78,12 @@
          src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/output/pacman-light.svg" />
   </picture>
 </p>
+
+---
+## 📚 Publications & Research
+
+[![Breast Cancer Detection](https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/breast-cancer-paper.png)](https://www.researchgate.net/publication/394806522_Advancements_in_Breast_Cancer_Detection_A_Review_of_Global_Trends_Risk_Factors_Imaging_Modalities_Machine_Learning_and_Deep_Learning_Approaches)
+
+[![PCOS Smart Diagnosis](https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/pcos-paper.png)](https://www.researchgate.net/publication/400506022_Smart_Diagnosis_and_Early_Intervention_in_PCOS_A_Deep_Learning_Approach_to_Women's_Reproductive_Health)
+
+
