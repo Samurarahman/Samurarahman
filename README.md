@@ -49,10 +49,8 @@
 ## 🛠️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&layout=normal" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samurarahman&theme=radical&layout=normal" />
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Samurarahman&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
-
 ---
 
 ### ✍️ Dev Quote
