@@ -82,8 +82,14 @@
 ---
 ## 📚 Publications & Research
 
-[![Breast Cancer Detection](https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/breast-cancer-paper.png)](https://www.researchgate.net/publication/394806522_Advancements_in_Breast_Cancer_Detection_A_Review_of_Global_Trends_Risk_Factors_Imaging_Modalities_Machine_Learning_and_Deep_Learning_Approaches)
-
-[![PCOS Smart Diagnosis](https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/pcos-paper.png)](https://www.researchgate.net/publication/400506022_Smart_Diagnosis_and_Early_Intervention_in_PCOS_A_Deep_Learning_Approach_to_Women's_Reproductive_Health)
+<p align="center">
+  <a href="https://www.researchgate.net/publication/394806522_Advancements_in_Breast_Cancer_Detection_A_Review_of_Global_Trends_Risk_Factors_Imaging_Modalities_Machine_Learning_and_Deep_Learning_Approaches">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/breast-cancer-paper.png" width="380"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/publication/400506022_Smart_Diagnosis_and_Early_Intervention_in_PCOS_A_Deep_Learning_Approach_to_Women's_Reproductive_Health">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/pcos-paper.png" width="380"/>
+  </a>
+</p>
 
 
