@@ -81,16 +81,32 @@
 
 ## 🚀 Projects Showcase
 
-<p align="center">
+<div align="center">
+
+  <!-- Alien Chatbot - New Top Project -->
+  <a href="https://alien-chatbot.streamlit.app/">
+    <img src="https://raw.githubusercontent.com/Samurarahman/Alien-chatbot/main/alien%20chatbot.PNG" width="420" alt="Alien Chatbot Screenshot"/>
+  </a>
+
+  <p>
+    <img src="https://img.shields.io/badge/Live-Streamlit%20Cloud-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Frontend-Streamlit%20%7C%20Python%20%7C%20CSS-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Model-Qwen2.5--3B--Instruct-purple?style=for-the-badge" />
+  </p>
+
+  <br>
+
+  <!-- Your existing Portfolio project -->
   <a href="https://samaura-portfolio-2.netlify.app/">
     <img src="https://raw.githubusercontent.com/Samurarahman/Samurarahman/main/assets/Portfolio.PNG" width="420"/>
   </a>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Live-Netlify-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Live-Netlify-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge" />
+  </p>
+
+</div>
 
 ---
 ## 📚 Publications & Research
