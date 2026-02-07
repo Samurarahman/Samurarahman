@@ -1,8 +1,8 @@
-name: Generate Contribution Animation
+name: Generate Fancy Contribution Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate fancy snake graph
+      - name: Checkout repository (needed for pushing)
+        uses: actions/checkout@v3
+
+      - name: Generate fancy snake graph (dark mode)
         uses: Platane/snk@v3
+        id: generate-dark
         with:
           github_user_name: Samurarahman
-          outputs: dist/pacman.svg
+          outputs: dist/pacman-dark.svg
           palette: dracula
           game_style: tron
           background_color: "#0f172a"
+
+      - name: Generate fancy snake graph (light mode)
+        uses: Platane/snk@v3
+        id: generate-light
+        with:
+          github_user_name: Samurarahman
+          outputs: dist/pacman-light.svg
+          palette: github-light
+          game_style: tron
+          background_color: "#ffffff"
+
+      - name: Show generated files
+        run: ls -l dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
